@@ -1,5 +1,5 @@
 # 👋 Hola, soy Sergio
-###Siempre en proceso
+### Siempre en proceso
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 💻 Apasionado por la programación y el mundo tech  
