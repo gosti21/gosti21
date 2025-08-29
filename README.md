@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This tomorrow
 
 <!--
 **gosti21/gosti21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Mi GIF animado](https://media.giphy.com/media/tu-link-al-gif.gif)
