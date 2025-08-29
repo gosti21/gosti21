@@ -11,3 +11,4 @@
 ### Conecta conmigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-alessandro-zambrano-candiotti-238098302/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/gosti21)
+[📱 WhatsApp](https://wa.me/51906660509)
