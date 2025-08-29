@@ -1,4 +1,4 @@
-# 👋 Hola, soy gosti21
+# 👋 Hola, soy Sergio
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
